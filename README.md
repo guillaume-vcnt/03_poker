@@ -14,7 +14,7 @@ Technologies : JavaScript
 
 IDE : VSCode
 
-OS : Windows 
+OS : Windows
 
 ## Utilisation 
 
