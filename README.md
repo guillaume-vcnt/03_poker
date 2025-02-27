@@ -8,8 +8,6 @@ Cet exercice consiste à écrire la logique d'un jeu de poker suivant les règle
 
 État du projet : Terminé
 
-Nombre de participants : 1
-
 Technologies : JavaScript
 
 IDE : VSCode
